@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>jre8</id> <!-- Change this as needed -->
+    <version>8.0.3110.11</version> <!-- Update with the Java version -->
+    <title>Java Runtime Environment</title>
+    <authors>Your Name or Company</authors>
+    <owners>Your Company</owners>
+    <description>This package installs Java Runtime Environment version 8.</description>
+    <summary>Installs JRE version 8u311.</summary>
+    <tags>Java JRE</tags>
+    <projectUrl>https://www.oracle.com/java/</projectUrl>
+    <licenseUrl>https://www.oracle.com/downloads/licenses/</licenseUrl>
+  </metadata>
+  <files>
+    <file src="tools\jre.exe" target="tools" />
+    <file src="tools\chocolateyinstall.ps1" target="tools" />
+  </files>
+</package>
