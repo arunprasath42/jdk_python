@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>python-3.8.10-amd64</id>
+    <version>3.8.10</version>
+    <title>python-3.8.10-amd64</title>
+    <authors>Ganesh Awadhane</authors>
+    <owners>Blue Shield of CA</owners>
+    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>python-3.8.10-amd64</description>
+  </metadata>
+</package>
